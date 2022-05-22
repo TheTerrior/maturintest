@@ -1,4 +1,4 @@
-# maturintest
+# pyo3test
 To test for yourself, edit the file "test" to work with your system. Install Rust, Python, and cargo and/or maturin. Run these two commands:<br>
 ```
 cargo build
