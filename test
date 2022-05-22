@@ -1,0 +1,2 @@
+cp target/debug/libmaturintest.so py_tester/maturintest.so
+python py_tester/main.py
